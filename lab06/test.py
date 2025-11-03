@@ -117,9 +117,10 @@ def kill_proc(proc):
 
 
 tests = [
-    TestCase("ex2", "Exercise 2: Sub-Circuits"),
-    TestCase("ex3", "Exercise 3: Add Machine"),
-    TestCase("ex4", "Exercise 4: Rotate"),
+    TestCase("ex1", "Exercise 1: Immediate Generator"),
+    TestCase("ex2", "Exercise 2: BrUn"),
+    TestCase("ex4", "Exercise 4: Pipe that Line"),
+    TestCase("ex5", "Exercise 5: Debugging Circuits"),
 ]
 
 
